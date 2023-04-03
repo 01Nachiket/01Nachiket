@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--[![MasterHead](https://www.canva.com/design/DAFexCx0LO4/zFpajkY-_LWxSf8Qjqyd_w/view?utm_content=DAFexCx0LO4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)]-->
 <h1 align="center">Hi 👋, I'm Nachiket</h1>
 <h3 align="center">Wants To Explore 🚀</h3>
-<!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01nachiket&label=Profile%20views&color=0e75b6&style=flat" alt="01nachiket" /> </p>
 
@@ -20,8 +18,12 @@
 <a href="https://twitter.com/thnac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thnac" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=01nachiket&show_icons=true&locale=en&layout=compact" alt="01nachiket" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=01nachiket&show_icons=true&locale=en" alt="01nachiket" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=01nachiket&" alt="01nachiket" /></p>
+
